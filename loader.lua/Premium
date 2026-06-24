@@ -1,4 +1,4 @@
-getgenv().TARGET = "bumbalot08"
+getgenv().TARGET = "trong11366"
 loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/41d1fa8b8c088dbe60de91d7e1a0d5cb.lua"))()
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/TheqopThe/robax/refs/heads/main/jumpscare.lua"))()
